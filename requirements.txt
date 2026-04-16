@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+networkx
+scikit-learn
+scipy
+statsmodels
+plotly
+wordcloud
+openpyxl
+xlsxwriter
+python-louvain
+adjustText
