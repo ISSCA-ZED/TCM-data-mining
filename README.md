@@ -15,8 +15,7 @@ TCM/
 │   ├── 6.Formula_herb_Z_score.py
 │   ├── 7.Entity_network_TF-IDF.py
 │   ├── 8.Network_Pharmacology-Pathway_evolution.py
-│   ├── 9.New_symptom-formula_herb.py
-│   └── 10.Isolated_path.py
+│   └── 9.New_symptom-formula_herb.py
 ├── Data/                    # Input data files
 │   ├── Disease name/
 │   ├── Entity network/
